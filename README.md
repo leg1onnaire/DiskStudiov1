@@ -2,7 +2,6 @@
 
 **Disk Studio ** is an advanced disk management tool developed for Linux systems using C++ and Qt (Widgets), combining the best features of popular tools like GParted, Clonezilla, and Balena Etcher under a single roof.
 
-![Disk Studio Pro Main Window](screenshots/main_window.png)
 
 <img width="1857" height="475" alt="image" src="https://github.com/user-attachments/assets/5eaec144-cec8-44db-81bc-7cecf89c5d82" />
 
